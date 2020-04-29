@@ -10,7 +10,7 @@ number = []
 dates = []
 days = [1]
 
-file_name = 'pullups.txt'
+file_name = 'pullups.txt' # Edit this as given. Sample 'pullups.txt' provided to show CSV style
 DATA_TEMPLATE = 'Set 1,Set 2,Set 3,Set 4,Set 5,Set 6,Set 7,Set 8,Set 9,Set 10,Date'
 
 def checkDateFormat(givendate):
